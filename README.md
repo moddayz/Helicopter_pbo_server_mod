@@ -1,14 +1,14 @@
-https://github.com/moddayz This mod is only for the server folder, it cannot be uploaded to the workshop! 
+This mod is only for the server folder, it cannot be uploaded to the workshop! 
 If you upload it to the workshop I will delete it through the DMCA. Read the instruction below how to upload a pbo file to the server folder.
 
-https://github.com/moddayz Этот мод предназначен только для серверной папки, его нельзя загрузить в мастерскую!
+Этот мод предназначен только для серверной папки, его нельзя загрузить в мастерскую!
 Если вы загрузите его в мастерскую, я удалю его через DMCA. Прочтите инструкцию ниже, как загрузить файл pbo в папку сервера.
 
 We have Discord, for those who need help, they can ask in the chat. We also publish news and plans there.
-https://discord.gg/fC2nPqhg9b To access alpha versions, we have a website https://sibnic.info
+https://sibnic.info/discord To access alpha versions, we have a website https://sibnic.info
 
 У нас есть Discord, для тех, кому нужна помощь, они могут спросить в чате. Так же публикуем там новости и планы. 
-https://discord.gg/fC2nPqhg9b Для доступа к альфа версиям у нас есть сайт https://sibnic.info
+https://sibnic.info/discord Для доступа к альфа версиям у нас есть сайт https://sibnic.info
 
 
 Method, hide the server mod file in the "Addons" folder in the server folder next to other pbo, since the  server mod file has no signature, it will not prevent players from entering the server, but it will work!
