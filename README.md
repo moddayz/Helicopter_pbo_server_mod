@@ -1,8 +1,15 @@
 >>>>>>>>>This mod is only for the server folder, it cannot be uploaded to the workshop! 
 >>>>>>>>>If you upload it to the workshop I will delete it through the DMCA. Read the instruction below how to upload a pbo file to the server folder.
 
+The terms of use of the mod are described here PLEASE READ THEM
+https://github.com/moddayz/Helicopter_pbo_client_mod
+
 >>>>>>>>>Этот мод предназначен только для серверной папки, его нельзя загрузить в мастерскую!
 >>>>>>>>>Если вы загрузите его в мастерскую, я удалю его через DMCA. Прочтите инструкцию ниже, как загрузить файл pbo в папку сервера.
+
+Условие использования мода описаны здесь ОБЯЗАТЕЛЬНО ПРОЧТИТЕ ИХ
+https://github.com/moddayz/Helicopter_pbo_client_mod
+
 
 We have Discord, for those who need help, they can ask in the chat. We also publish news and plans there.
 https://sibnic.info/discord To access alpha versions, we have a website https://sibnic.info
